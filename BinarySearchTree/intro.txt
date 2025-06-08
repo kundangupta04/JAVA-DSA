@@ -1,0 +1,21 @@
+What and Why?
+It is a binary tree with a very special property
+--> every node to the left of a given node is smaller than the node(value) .
+--> every node to the right of a given node is greater than the node(value) .
+
+Advantages
+--> Efficient Searching
+--> Efficient insertion and deletion
+--> Usage in implementation of other data structures like sets, maps, priority ques etc.
+
+Disadvantages
+--> Lack of support for range queries
+--> Not that efficient in case of Unbalanced Trees
+
+Application
+--> Phonebook
+--> Dictionary
+--> Stock market analysis
+
+
+
